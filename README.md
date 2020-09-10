@@ -19,7 +19,7 @@ Students, Faculties, Researchers in the domain of signal processing
 
 <h5> Course Alignment : </h5>
 
-KEC-553  : Digital Signal Processing
+KEC-553A  : Digital Signal Processing
 
 <h5> Universities Mapped : </h5>
 
